@@ -1,3 +1,5 @@
+# This repository is being migrated [here](https://stash.ihmc.us/projects/LIBS/repos/ekf/browse)
+
 # EKF
 
 This is my playground for developing an Extended Kalman Filter (EKF) for state estimation. It depends on the [IHMC Software](https://github.com/ihmcrobotics/ihmc-open-robotics-software) for robot control. That software packet provides a simulation environment as well as tools to compute Jacobians and other useful quantities related to rigid body systems. The goal is to create a new state estimation framework that can be integrated easily with the IHMC software.
